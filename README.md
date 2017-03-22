@@ -26,6 +26,6 @@ It does respect the React / Redux best practices.
 * Run the project ```react-native run-ios```
 
 
-Visit out [Website](reactcentral.com)
+Check out our [Website](reactcentral.com)
 
 ![alt text](https://v.fastcdn.co/u/2ee63d04/14049763-0-reactcentral-logo-wh.png) 
