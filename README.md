@@ -11,7 +11,7 @@ It does respect the React / Redux best practices.
 
 # FEATURES 
 
-* Redux
+* Redux as a state management tool
 * Single Javascript code base for iOS and Android
 * Easy maintanable Javascript ES6
 * Easy Routing system
